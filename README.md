@@ -13,3 +13,9 @@
 Основы современного JavaScript (ECMAScript 2016, ECMAScript 2017): синтаксис, структуры данных и функциональный стиль программирования.
 
 [Крамер, Тернарный оператор, а также развёртывание и настройка папки проекта и приложений для управления JavaScriptпроектом и мониторинга зависимостей](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/SecondTask)
+
+### Theme 3
+
+Элементы асинхронного и событийно-ориентированного клиентского веб-программирования.
+
+[Задание по формированию таблицы с курсами валют](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/ThirdTask)
