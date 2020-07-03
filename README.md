@@ -24,4 +24,4 @@
 
 Экспериментальная проверка корректности функционирования (тестирование) веб-приложений
 
-[Задание по настройке линтера eslint-config-airbnb](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FourthTask)
+[Задание по настройке линтера eslint-config-airbnb и тестированию](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FourthTask)
