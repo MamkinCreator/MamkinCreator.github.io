@@ -24,4 +24,4 @@
 
 Экспериментальная проверка корректности функционирования (тестирование) веб-приложений
 
-[Задание по формированию таблицы с курсами валют](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FourthTask)
+[Задание по настройке линтера eslint-config-airbnb](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FourthTask)
