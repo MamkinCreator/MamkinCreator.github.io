@@ -19,3 +19,9 @@
 Элементы асинхронного и событийно-ориентированного клиентского веб-программирования.
 
 [Задание по формированию таблицы с курсами валют](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/ThirdTask)
+
+### Theme 4
+
+Экспериментальная проверка корректности функционирования (тестирование) веб-приложений
+
+[Задание по формированию таблицы с курсами валют](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FourthTask)
