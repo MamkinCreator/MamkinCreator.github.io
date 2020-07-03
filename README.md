@@ -36,4 +36,4 @@
 
 Интерфейсы HTML5 API и их взаимодействие с языком JavaScript.
 
-[Задание по созданию проектированию и разработке интерфейса микшера цветов](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FifthTask)
+[Задание по созданию проектированию и разработке интерфейса микшера цветов и корзины покупателя в интернет-магазине](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FifthTask)
