@@ -2,6 +2,7 @@
 
 # Tasks for independent work
 
+
 ## Third semester
 
 ### Theme 1
@@ -27,3 +28,12 @@
 Экспериментальная проверка корректности функционирования (тестирование) веб-приложений
 
 [Задание по настройке линтера eslint-config-airbnb и тестированию с помозью консоли разработчика](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FourthTask)
+
+
+## Fourth semester
+
+### Theme 1 
+
+Интерфейсы HTML5 API и их взаимодействие с языком JavaScript.
+
+[Задание по созданию проектированию и разработке интерфейса микшера цветов](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FifthTask)
