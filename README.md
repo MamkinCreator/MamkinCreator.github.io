@@ -7,3 +7,9 @@
 Языковые средства веб-технологий на основе XML и CSS и развёртывание среды разработки компонентов аппаратно-программных комплексов.
 
 [Задание по DTD и XML](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/FirstTask)
+
+### Theme 2
+
+Основы современного JavaScript (ECMAScript 2016, ECMAScript 2017): синтаксис, структуры данных и функциональный стиль программирования.
+
+[Крамер, Тернарный оператор, а также развёртывание и настройка папки проекта и приложений для управления JavaScriptпроектом и мониторинга зависимостей](https://github.com/MamkinCreator/ZhukovSergeyWeb/tree/master/SecondTask)
